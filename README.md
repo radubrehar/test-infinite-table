@@ -9,8 +9,9 @@ This is a comparison between AG Grid and Infinite Table React DataGrid. Both are
 
 For the AG Grid example repo, see https://github.com/radubrehar/test-aggrid-react
 
-- [AG Grid](https://www.ag-grid.com/)
-- [Infinite Table React DataGrid](https://infinite-table.com/)
+
+- [AG Grid - website](https://www.ag-grid.com/)
+- [Infinite Table React DataGrid - website](https://infinite-table.com/)
 
 - [AG Grid deployed example app - this repo](https://perf-aggrid-react.netlify.app/)
 - [Infinite Table deployed example app - this repo](https://perf-infinite-table.netlify.app/)
