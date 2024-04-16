@@ -12,7 +12,7 @@ Click thumbnail below to watch comparison video:
 
 ## Links
 
-For the AG Grid example repo, see https://github.com/radubrehar/test-aggrid-react
+For the **AG Grid** example repo, see https://github.com/radubrehar/test-aggrid-react
 
 NPM links:
 
