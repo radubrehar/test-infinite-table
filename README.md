@@ -1,8 +1,16 @@
-# React + Vite
+# Comparing AG Grid to Infinite Table React DataGrid
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a comparison between AG Grid and Infinite Table React DataGrid. Both are popular React DataGrid libraries.
 
-Currently, two official plugins are available:
+[![AG Grid vs Infinite Table](https://img.youtube.com/vi/3FZG6Eia27Y/0.jpg)](https://www.youtube.com/watch?v=3FZG6Eia27Y)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Links
+
+For the AG Grid example repo, see https://github.com/radubrehar/test-aggrid-react
+
+- [AG Grid](https://www.ag-grid.com/)
+- [Infinite Table React DataGrid](https://infinite-table.com/)
+
+- [AG Grid deployed example app - this repo](https://perf-aggrid-react.netlify.app/)
+- [Infinite Table deployed example app - this repo](https://perf-infinite-table.netlify.app/)
